@@ -6,7 +6,7 @@
 ---
 
 ## 📞 Contact
-- **📍 Location:** Based in Paris (75014) — *Open to work anywhere in France* 🇫🇷  
+- **📍 Location:** Based in Paris (75014) — *Open to work anywhere in France* 
 - **📧 Email:** [Abdullahbekbashy@gmail.com](mailto:Abdullahbekbashy@gmail.com)  
 - **📱 Phone:** +33 7 59 59 65 37  
 
