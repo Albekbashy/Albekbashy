@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah ALBEKBASHY  
 
-🎓 **3rd-Year Artificial Intelligence & Data Science Student** at **Aivancity University, Paris-Cachan**  
+🎓 **3rd-Year Artificial Intelligence & Data Science Student** at **Aivancity School for Technology, Business & Society, Paris**  
 📅 Seeking an **apprenticeship opportunity as a Data Scientist** starting **September 2026**  
 
 ---
@@ -15,7 +15,7 @@
 ## 🎯 About Me
 I’m an AI student passionate about **machine learning**, **data analytics**, and **natural language processing**.  
 I love exploring how data and algorithms can solve real-world problems while keeping technology ethical and human-centered.  
-Curious, adaptable, and always learning — I enjoy turning data into intelligent insights and meaningful solutions.
+Curious, adaptable, and always learning. I enjoy turning data into intelligent insights and meaningful solutions.
 
 ---
 
