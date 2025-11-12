@@ -80,7 +80,7 @@ Curious, adaptable, and always learning. I enjoy turning data into intelligent i
 
 ## 🎓 Education
 
-**Aivancity University, Paris-Cachan**  
+**Aivancity School for Technology, Business & Society, Paris**  
 📆 *Sep 2023 – Jul 2028*  
 - Third-year student in **Artificial Intelligence and Data Science**  
 - Building strong foundations in machine learning, advanced mathematics, and ethical AI  
